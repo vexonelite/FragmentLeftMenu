@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Nav drawer style to set width specified by Material Design specification -->
+    <style name="NavDrawer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginRight">0dp</item>
+    </style>
+
+</resources>
